@@ -20,7 +20,7 @@ This repository contains the code and artefacts for a capstone project on detect
 
 ## Dataset
 The PaySim dataset is publicly available on Kaggle:
-https://www.kaggle.com/datasets/ntnu-testimon/paysim1](https://www.kaggle.com/datasets/ealaxi/paysim1
+https://www.kaggle.com/datasets/ealaxi/paysim1
 
 Due to file size constraints, the raw dataset is not included in this repository.
 
